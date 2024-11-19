@@ -1,0 +1,27 @@
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="%23ffffff" viewBox="0 0 16 16"><path d="M1 4.5A.5.5 0 0 1 1.5 4h13a.5.5 0 0 1 0 1H1.5A.5.5 0 0 1 1 4.5zM1 8a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1H1.5A.5.5 0 0 1 1 8zm0 4.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1H1.5a.5.5 0 0 1-.5-.5z"/></svg>');
+}
+nav {
+    position: sticky !important;
+    top: 0;
+    z-index: 999;
+    background-color: #001F3F;
+
+}
+.navbar-toggler {
+    border-color: #ffffff;
+}
+
+ul li {
+    font-weight: 600;
+    margin: 8px;
+}
+
+.all-item {
+    text-decoration: none;
+    color: #fff;
+}
+
+.all-item:hover {
+    color: #FFD700;
+}

@@ -1,0 +1,50 @@
+.twopart{
+    padding: 45px;
+}
+.tb{
+    background-color: #001F3F;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.address-box {
+    height: 120px;
+    resize: vertical;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-select {
+    padding: 0.5rem;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-lg {
+    padding: 0.75rem 1.25rem;
+}
+
+.invalid-feedback {
+    font-size: 0.875rem;
+}
+@media (max-width: 768px) {
+    .twopart {
+        flex-direction:row;
+    }
+    .one{
+        width: 100%;
+    }
+    .twos{
+        padding-top: 30px;
+        width: 100%;
+        height: 400px;
+    }
+}
+.featurette-image {
+    max-height: 100%;
+}
