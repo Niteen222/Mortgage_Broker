@@ -17,7 +17,7 @@ function Navbar() {
                 className="navbar navbar-expand-lg"
             >
                 <div className="container-fluid">
-                    <a className="navbar-brand text-white" href="">
+                    <a className="navbar-brand text-white" href="https://mortgage-broker-sandy.vercel.app/">
                         <img src={Logo} alt="" className="logo" />
                     </a>
                     <button
@@ -67,7 +67,7 @@ function Navbar() {
                         </ul>
                         <div className="mx-2">
                             <motion.button
-                                className="button-danger fs-5"
+                                className="button-white fs-5"
                                 data-bs-toggle="modal"
                                 data-bs-target="#loginModal"
                                 whileHover={{ scale: 1.1 }}
@@ -76,7 +76,7 @@ function Navbar() {
                                 Login
                             </motion.button>
                             <motion.button
-                                className="button-success fs-5"
+                                className="button-white fs-5"
                                 data-bs-toggle="modal"
                                 data-bs-target="#signupModal"
                                 whileHover={{ scale: 1.1 }}

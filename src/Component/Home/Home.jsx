@@ -82,7 +82,7 @@ function Home() {
                                 viewport={{ once: true }}
                                 transition={{ duration: 1 }}
                             >
-                                <img src={animate1} className="bd-placeholder-img" height={"390"} width={"100%"} alt="" />
+                                <img src={animate1} className="bd-placeholder-img himg" height={"390"} width={"100%"} alt="" />
                             </motion.div>
 
                             <motion.div
@@ -120,7 +120,7 @@ function Home() {
                                 viewport={{ once: true }}
                                 transition={{ duration: 1 }}
                             >
-                                <img src={animate2} className="bd-placeholder-img" height={"390"} width={"100%"} alt="" />
+                                <img src={animate2} className="bd-placeholder-img himg" height={"390"} width={"100%"} alt="" />
                             </motion.div>
 
                             <motion.div
@@ -158,7 +158,7 @@ function Home() {
                                 viewport={{ once: true }}
                                 transition={{ duration: 1 }}
                             >
-                                <img src={animate3} className="bd-placeholder-img" height={"390"} width={"100%"} alt="" />
+                                <img src={animate3} className="bd-placeholder-img himg" height={"390"} width={"100%"} alt="" />
                             </motion.div>
 
                             <motion.div
@@ -196,7 +196,7 @@ function Home() {
                                 viewport={{ once: true }}
                                 transition={{ duration: 1 }}
                             >
-                                <img src={animate4} className="bd-placeholder-img" height={"390"} width={"100%"} alt="" />
+                                <img src={animate4} className="bd-placeholder-img himg" height={"390"} width={"100%"} alt="" />
                             </motion.div>
 
                             <motion.div
@@ -234,7 +234,7 @@ function Home() {
                                 viewport={{ once: true }}
                                 transition={{ duration: 1 }}
                             >
-                                <img src={animate5} className="bd-placeholder-img" height={"390"} width={"100%"} alt="" />
+                                <img src={animate5} className="bd-placeholder-img himg" height={"390"} width={"100%"} alt="" />
                             </motion.div>
 
                             <motion.div
@@ -271,7 +271,7 @@ function Home() {
                                 viewport={{ once: true }}
                                 transition={{ duration: 1 }}
                             >
-                                <img src={animate6} className="bd-placeholder-img" height={"390"} width={"100%"} alt="" />
+                                <img src={animate6} className="bd-placeholder-img himg" height={"390"} width={"100%"} alt="" />
                             </motion.div>
 
                             <motion.div
