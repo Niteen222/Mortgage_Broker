@@ -1,10 +1,15 @@
-import React from 'react'
+import React, {useState} from 'react'
 import Logo from "../image/consulting-logo.png";
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import "../Navbar/Navbar.css"
 
 function Navbar() {
+    const [isMenuOpen, setMenuOpen] = useState(false);
+
+    const toggleMenu = () => {
+        setMenuOpen(!isMenuOpen);
+    };
 
     return (
         

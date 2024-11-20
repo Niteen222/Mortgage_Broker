@@ -18,6 +18,7 @@ function Services() {
                 <div class="row featurette d-flex justify-content-center align-items-center">
                     <div class="col-md-7">
                         <h2 className="featurette-heading fw-bold lh-1">Web Design for Mortgage Brokers </h2>
+                        <br />
                         <p className="lead fs-5">
                             Our luxury web design service focuses on creating visually stunning, modern, and professional websites for mortgage brokers. We prioritize clean layouts, intuitive navigation, and an aesthetic that reflects trust and sophistication. By integrating high-quality images, premium fonts, and a tailored color scheme, we ensure that every element on your site speaks to your high-end clientele. The result is a seamless user experience that builds confidence and drives conversions.
                         </p>
@@ -30,6 +31,7 @@ function Services() {
                 <div class="row featurette d-flex justify-content-center align-items-center">
                     <div class="col-md-7 order-md-2">
                         <h2 className="featurette-heading fw-bold lh-1"> Responsive and User-Friendly Layouts </h2>
+                        <br />
                         <p className="lead fs-5">
                             We specialize in building responsive websites that look flawless on any device. Whether your clients are browsing on desktops, tablets, or smartphones, our designs adapt to provide an optimal viewing experience. Our team ensures smooth navigation, quick load times, and easy-to-use forms, empowering visitors to engage with your services from any device. This mobile-first approach guarantees that you never lose a potential client, regardless of their browsing preferences.
                         </p>
@@ -42,6 +44,7 @@ function Services() {
                 <div class="row featurette d-flex justify-content-center align-items-center">
                     <div class="col-md-7">
                         <h2 className="featurette-heading fw-bold lh-1"> Visual Design with Interactive Elements</h2>
+                        <br />
                         <p className="lead fs-5">
                             Elevate your mortgage broker website with stunning visual elements and subtle animations that enhance user interaction. We focus on luxury aesthetics with a color palette of deep blues, gold accents, and high-quality images. The design incorporates smooth hover effects, intuitive buttons, and call-to-action (CTA) features that make the experience feel polished and inviting. These interactive elements ensure that your site remains engaging while reflecting professionalism and sophistication.
                         </p>
@@ -54,6 +57,7 @@ function Services() {
                 <div class="row featurette d-flex justify-content-center align-items-center">
                     <div class="col-md-7 order-md-2">
                         <h2 className="featurette-heading fw-bold lh-1"> Responsive and User-Friendly Layouts </h2>
+                        <br />
                         <p className="lead fs-5">
                             We specialize in building responsive websites that look flawless on any device. Whether your clients are browsing on desktops, tablets, or smartphones, our designs adapt to provide an optimal viewing experience. Our team ensures smooth navigation, quick load times, and easy-to-use forms, empowering visitors to engage with your services from any device. This mobile-first approach guarantees that you never lose a potential client, regardless of their browsing preferences.
                         </p>
@@ -66,6 +70,7 @@ function Services() {
                 <div class="row featurette d-flex justify-content-center align-items-center">
                     <div class="col-md-7">
                         <h2 className="featurette-heading fw-bold lh-1"> Professional Aesthetic with Luxurious Appeal</h2>
+                        <br />
                         <p className="lead fs-5">
                         We design websites that exude professionalism and elegance, tailored to attract high-end clients. By utilizing a refined color scheme with deep blues, greens, and gold accents, along with luxurious images of homes and happy clients, your website will immediately communicate trust and quality. Each visual element is carefully chosen to evoke a sense of luxury while ensuring readability and user-friendliness.
                         </p>
@@ -78,6 +83,7 @@ function Services() {
                 <div class="row featurette d-flex justify-content-center align-items-center">
                     <div class="col-md-7 order-md-2">
                         <h2 className="featurette-heading fw-bold lh-1"> Responsive and User-Friendly Layouts </h2>
+                        <br />
                         <p className="lead fs-5">
                             We specialize in building responsive websites that look flawless on any device. Whether your clients are browsing on desktops, tablets, or smartphones, our designs adapt to provide an optimal viewing experience. Our team ensures smooth navigation, quick load times, and easy-to-use forms, empowering visitors to engage with your services from any device. This mobile-first approach guarantees that you never lose a potential client, regardless of their browsing preferences.
                         </p>
