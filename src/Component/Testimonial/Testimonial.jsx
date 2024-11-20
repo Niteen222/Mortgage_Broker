@@ -1,5 +1,9 @@
 import React from "react";
 import "../Testimonial/Testimonial.css";
+import test1 from "../Testimonial/test1.jpg"
+import test2 from "../Testimonial/test2.jpg"
+import test3 from "../Testimonial/test3.jpg"
+import test4 from "../Testimonial/test4.jpg"
 
 const Testimonial = () => {
     return (
@@ -70,7 +74,7 @@ const Testimonial = () => {
                 <ul className="list-unstyled">
                     <li>
                         <a className="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top" href="#">
-                            <img src="https://i.pinimg.com/236x/3f/e9/fe/3fe9fe7f0573b76d84f1bc313e43c98d.jpg" className="bd-placeholder-img rounded"  height="206" alt="" />
+                            <img src={test1} className="bd-placeholder-img rounded"  height="206" alt="" />
                             <div className="col-lg-10.5">
                                 <h4 className="mb-0 fw-bold">Michael R., CEO of Prestige Finance</h4>
                                 <br />
@@ -87,12 +91,12 @@ const Testimonial = () => {
                                 <p className="fw-normal fs-5">Our new website has taken our online presence to the next level. The luxury design and user-focused experience have not only improved our brand perception but also contributed to a higher volume of inquiries and applications. It’s been a fantastic investment in the growth of our business.</p>
                                 <small className="text-body-secondary fs-5">April 11, 2024</small>
                             </div>
-                            <img src="https://i.pinimg.com/236x/a6/20/d9/a620d9be8577730521b30e0a12732599.jpg" className="bd-placeholder-img rounded"  height="206" alt="" />
+                            <img src={test2} className="bd-placeholder-img rounded"  height="206" alt="" />
                         </a>
                     </li>
                     <li>
                         <a className="d-flex flex-column flex-lg-row gap-3 align-items-start align-items-lg-center py-3 link-body-emphasis text-decoration-none border-top" href="#">
-                            <img src="https://i.pinimg.com/236x/f8/2c/4b/f82c4b2767242d02de88d7f6d99796fb.jpg   " className="bd-placeholder-img rounded"  height="206" alt="" />
+                            <img src={test3} className="bd-placeholder-img rounded"  height="206" alt="" />
                             <div className="col-lg-10.5">
                                 <h4 className="mb-0 fw-bold">Rebecca L., Sales Manager at Luxury Loan Solutions</h4>
                                 <br />
@@ -109,7 +113,7 @@ const Testimonial = () => {
                                 <p className="fw-normal fs-5">The website design exceeded our expectations. It is visually stunning, professional, and easy to navigate. Clients now have a seamless experience when accessing our mortgage services, and we've seen a direct increase in client engagement. This new look has definitely raised our credibility in the market</p>
                                 <small className="text-body-secondary fs-5">August 21, 2024</small>
                             </div>
-                            <img src="https://i.pinimg.com/236x/aa/4f/14/aa4f1494ba69f716fb92f0115a6c5fb4.jpg" className="bd-placeholder-img rounded"  height="206" alt="" />
+                            <img src={test4} className="bd-placeholder-img rounded"  height="206" alt="" />
                         </a>
                     </li>
                 </ul>

@@ -1,4 +1,10 @@
 import React from 'react'
+import service1 from "../Services/service1.gif"
+import service2 from "../Services/service2.gif"
+import service3 from "../Services/service3.gif"
+import service4 from "../Services/service4.gif"
+import service5 from "../Services/service5.gif"
+import service6 from "../Services/service6.gif"
 
 function Services() {
     return (
@@ -17,7 +23,7 @@ function Services() {
                         </p>
                     </div>
                     <div class="col-md-5">
-                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="" />
+                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src={service1} alt="" />
                     </div>
                 </div>
                 <br />
@@ -29,7 +35,7 @@ function Services() {
                         </p>
                     </div>
                     <div class="col-md-5">
-                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="" />
+                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src={service2} alt="" />
                     </div>
                 </div>
                 <br />
@@ -41,7 +47,7 @@ function Services() {
                         </p>
                     </div>
                     <div class="col-md-5">
-                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="600" src="https://i.pinimg.com/originals/4e/42/5d/4e425d3310a8331ee526d11c6b23f3e2.gif" alt="" />
+                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="600" src={service3} alt="" />
                     </div>
                 </div>
                 <br />
@@ -53,7 +59,7 @@ function Services() {
                         </p>
                     </div>
                     <div class="col-md-5">
-                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src="https://i.pinimg.com/originals/e7/62/bf/e762bf4b8cbc5ee9e70e7e087f99e5c3.gif" alt="" />
+                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src={service5} alt="" />
                     </div>
                 </div>
                 <br /> 
@@ -65,7 +71,7 @@ function Services() {
                         </p>
                     </div>
                     <div class="col-md-5">
-                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="600" src="https://i.pinimg.com/originals/2e/fa/74/2efa7485320e4e8ead33bad9e03106d9.gif" alt="" />
+                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="600" src={service6} alt="" />
                     </div>
                 </div>
                 <br />
@@ -77,7 +83,7 @@ function Services() {
                         </p>
                     </div>
                     <div class="col-md-5">
-                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" alt="" />
+                        <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto rounded" width="650" height="500" src={service4} alt="" />
                     </div>
                 </div>
                 <br /> 
